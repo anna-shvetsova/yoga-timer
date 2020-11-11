@@ -1,0 +1,281 @@
+[
+    {
+        "name": "Default list 1",
+        "preparationTime": 10,
+        "poses": [
+            {
+                "name": "Seated forward bend",
+                "name2": "Paschimottanasana",
+                "sets": 3,
+                "isTwoSided": false,
+                "holdingTime": "03:00"
+            },
+            {
+                "name": "Tree pose",
+                "name2": "Vrikshasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "00:30"
+            },
+            {
+                "name": "Triangle pose",
+                "name2": "Utthita trikonasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "Revolved triangle pose",
+                "name2": "Parivritta trikonasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "Extended side angle pose",
+                "name2": "Utthita parsvakonasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "00:40"
+            },
+            {
+                "name": "Revolved side angle pose",
+                "name2": "Parivrtta parsvsakonasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "00:15"
+            },
+            {
+                "name": "Warrior 1st pose",
+                "name2": "Virabhadrassana 1",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "00:15"
+            },
+            {
+                "name": "Warrior 2nd pose",
+                "name2": "Virabhadrassana 2",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "00:30"
+            },
+            {
+                "name": "Corpse pose",
+                "name2": "Shavasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "03:00"
+            },
+            {
+                "name": "Half moon pose",
+                "name2": "Ardha chandrasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "00:40"
+            },
+            {
+                "name": "Pyramid pose",
+                "name2": "Parsvottanasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "Gate pose",
+                "name2": "Parighasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "00:40"
+            },
+            {
+                "name": "Chair pose",
+                "name2": "Utkatasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "00:30"
+            },
+            {
+                "name": "Corpse pose",
+                "name2": "Shavasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "02:00"
+            },
+            {
+                "name": "Hero pose",
+                "name2": "Virasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "03:00"
+            },
+            {
+                "name": "The abdominal twist",
+                "name2": "Jathara parivartanasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "02:00"
+            },
+            {
+                "name": "Corpse pose",
+                "name2": "Shavasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "15:00"
+            }
+        ]
+    },
+    {
+        "name": "Default list 2",
+        "preparationTime": 10,
+        "poses": [
+            {
+                "name": "Seated forward bend",
+                "name2": "Paschimottanasana",
+                "sets": 3,
+                "isTwoSided": false,
+                "holdingTime": "03:00"
+            },
+            {
+                "name": "Hero pose",
+                "name2": "Virasana",
+                "sets": 2,
+                "isTwoSided": false,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "The accomplished pose",
+                "name2": "Siddhasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "02:00"
+            },
+            {
+                "name": "The abdominal twist",
+                "name2": "Jathara parivartanasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "Half cobra pose",
+                "name2": "Ardha bhujangasana",
+                "sets": 3,
+                "isTwoSided": false,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "Cobra pose",
+                "name2": "Bhujangasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "01:30"
+            },
+            {
+                "name": "Cobra pose with legs crossed",
+                "name2": "Bhujangasana 2",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "One leg folded forward bend",
+                "name2": "Trianga mukhaikapada paschimottanasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "The half spinal twist pose sitting on the leg",
+                "name2": "Ardha matsyendrasana 2",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "Half spinal twist pose",
+                "name2": "Ardha matsyendrasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "Marichi's 3rd pose",
+                "name2": "Marichyasana 3",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "01:00"
+            },
+            {
+                "name": "Boat pose",
+                "name2": "Paripurna navasana",
+                "sets": 3,
+                "isTwoSided": false,
+                "holdingTime": "00:30"
+            },
+            {
+                "name": "Half boat pose",
+                "name2": "Ardha navasana",
+                "sets": 3,
+                "isTwoSided": false,
+                "holdingTime": "00:20"
+            },
+            {
+                "name": "Upward plank pose",
+                "name2": "Purvottanasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "00:20"
+            },
+            {
+                "name": "Upward extended feet pose",
+                "name2": "Urdhva prasarita padasana",
+                "sets": 2,
+                "isTwoSided": false,
+                "holdingTime": "00:10"
+            },
+            {
+                "name": "Upward extended feet pose",
+                "name2": "Urdhva prasarita padasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "00:30"
+            },
+            {
+                "name": "Headstand pose",
+                "name2": "Shirshasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "00:30"
+            },
+            {
+                "name": "Shoulder stand pose",
+                "name2": "Sarvangasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "04:00"
+            },
+            {
+                "name": "Plough pose",
+                "name2": "Halasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "05:00"
+            },
+            {
+                "name": "The abdominal twist",
+                "name2": "Jathara parivartanasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "02:00"
+            },
+            {
+                "name": "Corpse pose",
+                "name2": "Shavasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "15:00"
+            }
+        ]
+    }
+]
+
