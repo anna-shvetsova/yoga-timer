@@ -1,7 +1,7 @@
 [
     {
         "name": "Default list 1",
-        "preparationTime": 10,
+        "preparationTime": 15,
         "poses": [
             {
                 "name": "Seated forward bend",
@@ -126,7 +126,7 @@
     },
     {
         "name": "Default list 2",
-        "preparationTime": 10,
+        "preparationTime": 15,
         "poses": [
             {
                 "name": "Seated forward bend",
