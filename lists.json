@@ -49,14 +49,14 @@
                 "name": "Warrior 1st pose",
                 "name2": "Virabhadrassana 1",
                 "sets": 1,
-                "isTwoSided": false,
+                "isTwoSided": true,
                 "holdingTime": "00:15"
             },
             {
                 "name": "Warrior 2nd pose",
                 "name2": "Virabhadrassana 2",
                 "sets": 1,
-                "isTwoSided": false,
+                "isTwoSided": true,
                 "holdingTime": "00:30"
             },
             {
@@ -274,6 +274,40 @@
                 "sets": 1,
                 "isTwoSided": false,
                 "holdingTime": "15:00"
+            }
+        ]
+    },
+    {
+        "name": "Test",
+        "preparationTime": 15,
+        "poses": [
+            {
+                "name": "Seated forward bend",
+                "name2": "Paschimottanasana",
+                "sets": 3,
+                "isTwoSided": false,
+                "holdingTime": "00:10"
+            },
+            {
+                "name": "Tree pose",
+                "name2": "Vrikshasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "00:09"
+            },
+            {
+                "name": "Triangle pose",
+                "name2": "Utthita trikonasana",
+                "sets": 2,
+                "isTwoSided": true,
+                "holdingTime": "00:08"
+            },
+            {
+                "name": "Corpse pose",
+                "name2": "Shavasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "00:10"
             }
         ]
     }
