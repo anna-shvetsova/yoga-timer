@@ -1,6 +1,6 @@
 [
     {
-        "name": "Default list 1",
+        "name": "(en) Default list 1",
         "preparationTime": 15,
         "poses": [
             {
@@ -125,8 +125,8 @@
         ]
     },
     {
-        "name": "Default list 2",
-        "preparationTime": 15,
+        "name": "(en) Default list 2",
+        "preparationTime": 20,
         "poses": [
             {
                 "name": "Seated forward bend",
@@ -278,7 +278,7 @@
         ]
     },
     {
-        "name": "Test",
+        "name": "(en) Test",
         "preparationTime": 15,
         "poses": [
             {
@@ -310,6 +310,41 @@
                 "holdingTime": "00:10"
             }
         ]
+    },
+    {
+        "name": "(ru) Тест",
+        "preparationTime": 15,
+        "poses": [
+            {
+                "name": "Наклон вперед к прямым ногам",
+                "name2": "Paschimottanasana",
+                "sets": 3,
+                "isTwoSided": false,
+                "holdingTime": "00:10"
+            },
+            {
+                "name": "Поза дерева",
+                "name2": "Vrikshasana",
+                "sets": 1,
+                "isTwoSided": true,
+                "holdingTime": "00:09"
+            },
+            {
+                "name": "Поза треугольника",
+                "name2": "Utthita trikonasana",
+                "sets": 2,
+                "isTwoSided": true,
+                "holdingTime": "00:08"
+            },
+            {
+                "name": "Поза трупа",
+                "name2": "Shavasana",
+                "sets": 1,
+                "isTwoSided": false,
+                "holdingTime": "00:10"
+            }
+        ]
     }
+
 ]
 
